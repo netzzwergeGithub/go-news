@@ -1,4 +1,4 @@
-
+package domain
 
 // ArticleReader provides read-only access to articles
 type ArticleReader interface {
